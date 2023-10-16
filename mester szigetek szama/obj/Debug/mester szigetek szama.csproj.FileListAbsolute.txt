@@ -1,0 +1,8 @@
+C:\Users\faludy_gergo\Documents\erettsegi gyaa\grafok\mester szigetek szama\mester szigetek szama\bin\Debug\mester szigetek szama.exe.config
+C:\Users\faludy_gergo\Documents\erettsegi gyaa\grafok\mester szigetek szama\mester szigetek szama\bin\Debug\mester szigetek szama.exe
+C:\Users\faludy_gergo\Documents\erettsegi gyaa\grafok\mester szigetek szama\mester szigetek szama\bin\Debug\mester szigetek szama.pdb
+C:\Users\faludy_gergo\Documents\erettsegi gyaa\grafok\mester szigetek szama\mester szigetek szama\obj\Debug\mester szigetek szama.csproj.AssemblyReference.cache
+C:\Users\faludy_gergo\Documents\erettsegi gyaa\grafok\mester szigetek szama\mester szigetek szama\obj\Debug\mester szigetek szama.csproj.SuggestedBindingRedirects.cache
+C:\Users\faludy_gergo\Documents\erettsegi gyaa\grafok\mester szigetek szama\mester szigetek szama\obj\Debug\mester szigetek szama.csproj.CoreCompileInputs.cache
+C:\Users\faludy_gergo\Documents\erettsegi gyaa\grafok\mester szigetek szama\mester szigetek szama\obj\Debug\mester szigetek szama.exe
+C:\Users\faludy_gergo\Documents\erettsegi gyaa\grafok\mester szigetek szama\mester szigetek szama\obj\Debug\mester szigetek szama.pdb
